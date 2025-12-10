@@ -1,0 +1,27 @@
+main:
+  - title: Home
+    url: /
+
+  - title: Posts
+    children:
+      - title: Blog 제작기
+        url: /categories/blog/
+      - title: 개발 기록
+        url: /categories/dev/
+      - title: AI / Vision
+        url: /categories/ai/
+      - title: 프로젝트
+        url: /categories/project/
+      - title: 삽질 / 에러 해결
+        url: /categories/trouble/
+      - title: 일상 / 루틴
+        url: /categories/life/
+
+  - title: Categories
+    url: /categories/
+
+  - title: Tags
+    url: /tags/
+
+  - title: About
+    url: /about/
