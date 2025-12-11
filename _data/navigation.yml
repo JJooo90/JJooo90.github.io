@@ -20,6 +20,13 @@ main:
   - title: Categories
     url: /categories/
 
+  - title: 제작기
+    url: /categories/제작기/
+  - title: 활용기
+    url: /categories/활용기/
+  - title: 삽질기록
+    url: /categories/삽질기록/
+
   - title: Tags
     url: /tags/
 
