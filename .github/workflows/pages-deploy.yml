@@ -4,6 +4,8 @@ on:
     branches:
       - main
       - master
+      - dev
+      
     paths-ignore:
       - .gitignore
       - README.md
@@ -69,5 +71,6 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
+        if: github.ref == 'refs/heads/main'
         id: deployment
         uses: actions/deploy-pages@v4
