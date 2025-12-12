@@ -1,0 +1,151 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>JJooo`s Blog</title>
+  <subtitle>AI 영상처리, Django 백엔드, 잡담까지 기록하는 블로그</subtitle>
+  <updated>2025-12-12T04:12:39+09:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ko-KR"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 your_full_name </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>[blog] 블로그 활용기 2탄 - 카테고리 나열 및 게시글 카테고리 올리기</title>
+    <link href="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%99%9C%EC%9A%A9%EA%B8%B0-2%ED%83%84-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%82%98%EC%97%B4-%EB%B0%8F-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%98%AC%EB%A6%AC%EA%B8%B0/" rel="alternate" type="text/html" title="[blog] 블로그 활용기 2탄 - 카테고리 나열 및 게시글 카테고리 올리기" />
+    <published>2025-12-12T00:00:00+09:00</published>
+  
+    <updated>2025-12-12T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%99%9C%EC%9A%A9%EA%B8%B0-2%ED%83%84-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%82%98%EC%97%B4-%EB%B0%8F-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%98%AC%EB%A6%AC%EA%B8%B0/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%99%9C%EC%9A%A9%EA%B8%B0-2%ED%83%84-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%82%98%EC%97%B4-%EB%B0%8F-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%98%AC%EB%A6%AC%EA%B8%B0/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="활용기" />
+    
+  
+
+  <summary>바로가기                        1. [blog] 블로그 활용기 1탄 - Chirpy v7.x에서 접기(토글) 기능 사용하는 방법                            2. [blog] 블로그 활용기 2탄 - 카테고리 나열 및 게시글 카테고리 올리기                  ✔ 목적  게시글을 보다보니. 예전에 작성된 글을 보고 싶었다. 마치 밸로그의 목차처럼. (현재 내 글은 시리즈 물이 주되기 때문에 목차가 필수적으로 필요하다 느껴진다.) 따라서, 전체 글에서 같은 시리즈의 글들을 확인 할수 있는 목차를 만드는 것을 목표로 본 게시글을 작성하였다.    1. 현재 글에서의 목차(개요)를 만들기 지금 단계에서 가장 먼저 하고 싶은 것이 “포스트에 자동 목차(TOC)를...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>[blog] 블로그 제작기 5탄 - 비공개 게시글 만들기</title>
+    <link href="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-5%ED%83%84-%EB%B9%84%EA%B3%B5%EA%B2%8C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/" rel="alternate" type="text/html" title="[blog] 블로그 제작기 5탄 - 비공개 게시글 만들기" />
+    <published>2025-12-12T00:00:00+09:00</published>
+  
+    <updated>2025-12-12T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-5%ED%83%84-%EB%B9%84%EA%B3%B5%EA%B2%8C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-5%ED%83%84-%EB%B9%84%EA%B3%B5%EA%B2%8C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="제작기" />
+    
+  
+
+  <summary>✔ 목표  우선, GitHub Pages(Jekyll 기반 블로그)는 “접근 권한(비공개)” 기능이 없다. 즉, GitHub Pages로 배포되는 사이트는 항상 공개된다. 따라서, 나만의 목적(다른 사람은 못 보고, 나만 보고 싶은 글)에 따라 글의 공개를 우회하는 방법을 정리한다.  ✔ 방법 우회하는 방법은 3가지로 볼수 있는데, 가장 활용성이 높은 _drafts 폴더를 이용하는 방법을 정의 하겠다. | 1. _drafts 폴더 활용 | 2. Front Matter로 날짜를 미래로 설정 (사람이 못 보도록 숨김) | 3. GitHub Repository를 Private로 바꾸기  ✔ 특징    GitHub Pages에 절대 배포되지 않음   로컬에서만 확인 가능   폴더 이름만 만들면 바로 사용 가능...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>[dev] dummy</title>
+    <link href="http://localhost:4000/posts/dummy/" rel="alternate" type="text/html" title="[dev] dummy" />
+    <published>2025-12-10T00:00:00+09:00</published>
+  
+    <updated>2025-12-11T04:45:48+09:00</updated>
+  
+    <id>http://localhost:4000/posts/dummy/</id>
+    <content type="text/html" src="http://localhost:4000/posts/dummy/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="dev" />
+    
+  
+
+  <summary>테스트용 더미</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>[blog] 블로그 제작기 4탄 - 블로그 스타일 변경</title>
+    <link href="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-4%ED%83%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%B3%80%EA%B2%BD/" rel="alternate" type="text/html" title="[blog] 블로그 제작기 4탄 - 블로그 스타일 변경" />
+    <published>2025-12-10T00:00:00+09:00</published>
+  
+    <updated>2025-12-12T02:20:06+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-4%ED%83%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%B3%80%EA%B2%BD/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91%EA%B8%B0-4%ED%83%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%B3%80%EA%B2%BD/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="제작기" />
+    
+  
+
+  <summary>목표    Home 페이지 → Zapier-style “문서 인덱스 + 섹션형 홈”   프로젝트 Overview 페이지 템플릿 → Zapier 문서 구조 기반   일반 글 템플릿 → Zapier 문서 스타일 기반                  https://zapier.com/engineering/great-documentation-examples/           🧭 전체 구성 과정 요약 ✔ Step 1 — 홈 화면을 Zapier-style 문서 홈으로 바꾸기 → _layouts/home.html 새로 생성  ✔ Step 2 — 프로젝트 Overview 템플릿 만들기 → _posts/project/0000-00-00-overview.md 또는 /project/index.md  ✔ Step 3 — 일...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>[blog] SCSS @import 사용시 에러</title>
+    <link href="http://localhost:4000/posts/SCSS-@import-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%90%EB%9F%AC/" rel="alternate" type="text/html" title="[blog] SCSS @import 사용시 에러" />
+    <published>2025-12-10T00:00:00+09:00</published>
+  
+    <updated>2025-12-10T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/SCSS-@import-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%90%EB%9F%AC/</id>
+    <content type="text/html" src="http://localhost:4000/posts/SCSS-@import-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%90%EB%9F%AC/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+    <category term="삽질기록" />
+    
+  
+
+  <summary>해당 포스트는 scss을 자세히 알아야 해결이 가능할 것 같다.  따라서, frontend를 공부하면서 수정 보완해야 하는 것을 느꼈다. 우선, 현재 맞딱들인 jekyll에서 scss를 로드할 때, custom.css가 main.css에 적용이 안되는 부분에 대해 gpt와 블로그를 통해 조사한 내용을 임시로 적었다. 다만, 내게는 해당 방법이 성공적으로 해결되지 못했기에, scss를 공부하고 다시 작성하는 것으로 남겼다.  1) jekyll에서의 scss 적용 과정 정리        🎯 목표      custom.scss → Jekyll 빌드 → style.css 출력 → 페이지에 로드되는 상태 만들기      이를 위해 다음 3가지를 정확하게 구성해야 한다:      ✅ 1단계: Chirpy 테마의 ...</summary>
+
+  </entry>
+
+</feed>
+
+
