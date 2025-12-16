@@ -8,6 +8,7 @@ toc: false
 따라서, frontend를 공부하면서 수정 보완해야 하는 것을 느꼈다.
 우선, 현재 맞딱들인 jekyll에서 scss를 로드할 때, custom.css가 main.css에 적용이 안되는 부분에 대해 gpt와 블로그를 통해 조사한 내용을 임시로 적었다.
 다만, 내게는 해당 방법이 성공적으로 해결되지 못했기에, scss를 공부하고 다시 작성하는 것으로 남겼다.
+
 <details>
 <summary><strong>1) jekyll에서의 scss 적용 과정 정리</strong></summary>
 

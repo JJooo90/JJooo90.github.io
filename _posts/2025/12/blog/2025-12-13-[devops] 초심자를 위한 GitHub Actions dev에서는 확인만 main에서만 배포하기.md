@@ -2,7 +2,8 @@
 title: "[devops] 초심자를 위한 GitHub Actions: dev에서는 확인만, main에서만 배포하기"
 categories: [blog, devops]
 tags: [github-actions, ci, github-pages, chirpy]
-series: "GitHub Pages DevOps 설정기"
+series: "DevOps"
+series_order: 10
 layout: post
 toc: true
 ---
