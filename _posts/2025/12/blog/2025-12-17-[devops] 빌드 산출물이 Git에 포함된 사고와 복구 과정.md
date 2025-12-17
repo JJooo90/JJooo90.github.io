@@ -1,11 +1,12 @@
 ---
-  title: "[devops] 빌드 산출물(tex-svg-full.js)이 Git에 포함된 사고와 복구 과정"
-  categories: [devops, trouble]
-  tags: [git, jekyll, chirpy, build, gitignore]
-  layout: post
-  series: "DevOps"
-  series_order: 30
-  toc: true
+title: "[devops] 빌드 산출물(tex-svg-full.js)이 Git에 포함된 사고와 복구 과정"
+categories: [devops, trouble]
+tags: [git, jekyll, chirpy, build, gitignore]
+layout: post
+series: "DevOps"
+series_order: 30
+toc: true
+comments: true
 ---
 
 <div class="series-box">

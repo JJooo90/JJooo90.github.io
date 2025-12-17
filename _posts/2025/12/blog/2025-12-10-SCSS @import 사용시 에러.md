@@ -3,6 +3,7 @@ title: "[blog] SCSS @import 사용시 에러"
 categories: [blog, 삽질기록]
 tags: [blog, troble, import, use, scss, 에러, sass, spoiler, chirpy]
 toc: false
+comments: true
 ---
 해당 포스트는 scss을 자세히 알아야 해결이 가능할 것 같다. 
 따라서, frontend를 공부하면서 수정 보완해야 하는 것을 느꼈다.

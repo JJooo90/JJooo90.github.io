@@ -6,6 +6,7 @@ series: "DevOps"
 series_order: 10
 layout: post
 toc: true
+comments: true
 ---
 
 {% assign series_posts = site.posts | where: "series", page.series | sort: "date" %}

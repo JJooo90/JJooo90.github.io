@@ -6,6 +6,7 @@ layout: post
 series: "DevOps"
 series_order: 20
 toc: true
+comments: true
 ---
 
 <div class="series-box">

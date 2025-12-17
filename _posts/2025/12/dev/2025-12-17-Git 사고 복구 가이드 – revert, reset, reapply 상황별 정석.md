@@ -3,6 +3,7 @@ title: "Git 사고 복구 가이드 – revert, reset, reapply 상황별 정석"
 categories: [devops, git]
 tags: [git, branch-strategy, revert, reset, incident]
 layout: post
+comments: true
 ---
 
 ## 문서 목적
