@@ -108,6 +108,8 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
+related_posts: false
+
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: giscus # [disqus | utterances | giscus]
@@ -124,7 +126,7 @@ comments:
     repo_id: "R_kgDOQhR28A"
     category: "General"
     category_id: "DIC_kwDOQhR28M4Cz7mO"
-    mapping: "pathname" # optional, default to 'pathname'
+    mapping: "title" # optional, default to 'pathname'
     strict: "0" # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
     lang: ko # optional, default to the value of `site.lang`
