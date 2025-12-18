@@ -11,7 +11,7 @@ layout: default
   <section>
     <h2>🆕 최근 업데이트</h2>
     <ul class="zap-post-list">
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts limit:10 %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -23,7 +23,7 @@ layout: default
   <!-- 카테고리별 섹션 -->
   <section>
     <h2>📚 블로그 제작기</h2>
-    {% assign blogs = site.categories.blog | slice: 0, 3 %}
+    {% assign blogs = site.categories.blog | slice: 0, 5 %}
     <ul class="zap-post-list">
       {% for post in blogs %}
       <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
@@ -31,7 +31,7 @@ layout: default
     </ul>
   </section>
 
-  <section>
+  <!-- <section>
     <h2>🧪 AI / 컴퓨터 비전</h2>
     {% assign ai_posts = site.categories.ai | slice: 0, 3 %}
     <ul class="zap-post-list">
@@ -69,6 +69,6 @@ layout: default
       <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
-  </section>
+  </section> -->
 
 </div>
